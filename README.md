@@ -1,6 +1,6 @@
 ### Ben Quinn 
 
-**:computer: Currently Learning:** Computer Science at Newcastle University
+**💻 Currently Learning:** Computer Science at Newcastle University
 
 <br/>
 
