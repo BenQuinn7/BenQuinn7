@@ -4,13 +4,14 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="120"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="200"/>
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenQuinn7&show_icons=true&theme=dark)
 
 <br/>
 
 **📫 Let's Connect!**
+<br/>
 <a href="https://linkedin.com/in/benquinn7">
   <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
