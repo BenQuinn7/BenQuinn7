@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="200"/>
+<img src="https://raw.githubusercontent.com/BenQuinn7/BenQuinn7/main/assets/hollor_knight.gif" align="right" width="200"/>
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenQuinn7&show_icons=true&theme=dark)
 
