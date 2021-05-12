@@ -13,11 +13,12 @@
 ### 📫 Let's Connect!
 
 <br/>
+
 <a href="https://linkedin.com/in/benquinn7">
-  <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/BenQuinn7">
-  <img align="left" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <!---
