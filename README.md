@@ -10,8 +10,10 @@
 
 <br/>
 
-**📫 Let's Connect!**
+###📫 Let's Connect!
+
 <br/>
+
 <a href="https://linkedin.com/in/benquinn7">
   <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
