@@ -2,8 +2,7 @@
 
 ### Ben Quinn 
 
-- 🌱 I’m currently learning Computer Science at Newcastle University
-- 👀 I’m interested in ...
+**🌱 I’m currently learning Computer Science at Newcastle University
 
 <br/>
 
@@ -11,7 +10,7 @@
 
 <br/>
 
-- 📫 Reach me here!
+**📫 Reach me here!
 <a href="https://linkedin.com/in/benquinn7">
   <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
