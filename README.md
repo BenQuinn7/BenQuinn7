@@ -2,7 +2,7 @@
 
 ### Ben Quinn 
 
-**🌱 I’m currently learning Computer Science at Newcastle University
+**:computer: I’m currently learning:** Computer Science at Newcastle University
 
 <br/>
 
