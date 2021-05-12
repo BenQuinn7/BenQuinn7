@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Computer Science at Newcastle University
 - 📫 How to reach me ...
 
+<br>
+
 <p align="center">
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenQuinn7&show_icons=true&theme=dark)
 </p>
