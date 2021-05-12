@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="120"/>
 
-- 👋 Hi, I’m Ben Quinn
+### Ben Quinn 
+
 - 🌱 I’m currently learning Computer Science at Newcastle University
 - 👀 I’m interested in ...
 
