@@ -14,12 +14,14 @@
 
 <br/>
 
+<p>
 <a href="https://linkedin.com/in/benquinn7">
-  <img align="center" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/BenQuinn7">
-  <img align="center" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+ </p>
 
 <!---
 BenQuinn7/BenQuinn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
