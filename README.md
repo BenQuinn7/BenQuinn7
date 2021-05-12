@@ -7,9 +7,9 @@
 
 <br>
 
-<p align="center">
+
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenQuinn7&show_icons=true&theme=dark)
-</p>
+
 
 <!---
 BenQuinn7/BenQuinn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
